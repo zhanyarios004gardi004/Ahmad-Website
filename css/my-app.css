@@ -255,7 +255,8 @@ html {
   padding-bottom: 5px;
   width: 60px;
   border-radius: 30px;
-  font-size: 16px;
+  font-size: 10px;
+font-family: NRT-Bd;
   border: none;
   cursor: pointer;
 }
